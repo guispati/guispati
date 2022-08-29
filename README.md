@@ -4,9 +4,6 @@
     <img src="./img/coding.png" width="300" />
 </p>
 
-<a href="https://github.com/guispati" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/guispati" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
@@ -18,21 +15,19 @@
 </a>
 
 
-## 💡 Sobre mim :
+## 💡 Sobre mim
 <img width="300px" align="right" src="./img/bio.png" />
-- Me chamo Guilherme Spati, tenho 23 anos e sou de Londrina - PR
+- Me chamo Guilherme Spati, tenho 23 anos e sou de Londrina - PR 👨‍💻
 
-- Formado em Ciência da Computação na [Universidade Estadual de Londrina](https://portal.uel.br/home/)
+- Formado em Ciência da Computação na [Universidade Estadual de Londrina](https://portal.uel.br/home/) 💻
 
 - Trabalho com Desenvolvimento Web desde 2021 e venho buscado evoluir na área desde então 🚀
 
-- Apaixonado por Desenvolvimento Web, em especial por Front End 💜
+- Atualmente aprendendo React e Node 📚
 
-- Amante de metal e suas vertentes 🎸
+- Além de programação, sou apaixonado por metal e suas vertentes, séries e jogos. 🎮
 
-- Viciado em séries e games 🎮
-
-## Ferramentas
+## 💻 Linguagens e Ferramentas
 Essas são algumas ferramentas que possuo conhecimento e estou buscando aprimorar.
 
 <div align="center">  
@@ -64,7 +59,7 @@ Essas são algumas ferramentas que possuo conhecimento e estou buscando aprimora
 
 <br/>  
 
-## Github Stats  
+##
 <p align="center">
     <a href="https://github.com/guispati">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guispati&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />

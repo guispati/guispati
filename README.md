@@ -1,10 +1,10 @@
 ## <div align="center">Fala Dev 👋</div>  
   
 <p align="center">
-    <img src="./img/coding.png" width="300" />
+    <img src="./img/coding.png" width="400" />
 </p>
 
-<a href="https://linkedin.com/in/guispati" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-spati/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/guispati" target="_blank">
@@ -17,6 +17,7 @@
 
 ## 💡 Sobre mim
 <img width="300px" align="right" src="./img/bio.png" />
+
 - Me chamo Guilherme Spati, tenho 23 anos e sou de Londrina - PR 👨‍💻
 
 - Formado em Ciência da Computação na [Universidade Estadual de Londrina](https://portal.uel.br/home/) 💻
@@ -28,7 +29,7 @@
 - Além de programação, sou apaixonado por metal e suas vertentes, séries e jogos. 🎮
 
 ## 💻 Linguagens e Ferramentas
-Essas são algumas ferramentas que possuo conhecimento e estou buscando aprimorar.
+Essas são algumas ferramentas que possuo conhecimento e estou buscando aprimorar:
 
 <div align="center">  
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  

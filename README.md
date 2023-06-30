@@ -18,7 +18,7 @@
 ## 💡 Sobre mim
 <img width="300px" align="right" src="./img/bio.png" />
 
-- Me chamo Guilherme Spati, tenho 23 anos e sou de Londrina - PR 👨‍💻
+- Me chamo Guilherme Spati, tenho 24 anos e sou de Londrina - PR 👨‍💻
 
 - Formado em Ciência da Computação na [Universidade Estadual de Londrina](https://portal.uel.br/home/) 💻
 
@@ -54,7 +54,6 @@ Essas são algumas ferramentas que possuo conhecimento e estou buscando aprimora
     <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
     <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-    <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
     <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 </div>  
 

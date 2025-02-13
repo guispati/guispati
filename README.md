@@ -18,7 +18,7 @@
 ## 💡 Sobre mim
 <img width="300px" align="right" src="./img/bio.png" />
 
-- Me chamo Guilherme Spati, tenho 24 anos e sou de Londrina - PR 👨‍💻
+- Me chamo Guilherme Spati, tenho 25 anos e sou de Londrina - PR 👨‍💻
 
 - Formado em Ciência da Computação na [Universidade Estadual de Londrina](https://portal.uel.br/home/) 💻
 
